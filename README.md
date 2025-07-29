@@ -2,6 +2,9 @@
 
 A smart car system controlled through a custom Android application, featuring **Bluetooth connectivity**, **facial recognition login**, and **real-time sensor data monitoring**. This project combines **mobile development**, **embedded systems**, and **machine learning** to create an interactive and secure remote control solution.
 
+<img width="265" height="191" alt="image" src="https://github.com/user-attachments/assets/a4c49f88-ca33-461b-99c7-fc32925bb2de" />
+
+
 ---
 
 ## Key Features
